@@ -1,0 +1,108 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Pizza Inn",
+        "cuisine": "Pizza",
+        "rating": 4.5,
+        "website": "https://pizzainn.co.ke/pizza-inn-menu/",
+        "menu": [
+          { "id": 101, "name": "Margherita Pizza", "price": 12.99, "imageUrl": "https://t.ly/i5gK6" },
+          { "id": 102, "name": "Pepperoni Pizza", "price": 14.99, "imageUrl": "https://t.ly/EuTAk" },
+          { "id": 103, "name": "Vegetarian Supreme", "price": 15.99, "imageUrl": "https://t.ly/xDzp8" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chicken Inn",
+        "cuisine": "Fast Food",
+        "rating": 4.0,
+        "website": "https://chickeninn.co.ke/chicken-inn-menu/",
+        "menu": [
+          { "id": 201, "name": "Chicken Burger", "price": 8.99, "imageUrl": "https://t.ly/XkV_w" },
+          { "id": 202, "name": "Spicy Wings", "price": 10.99, "imageUrl": "https://shorturl.at/dyCZ0" },
+          { "id": 203, "name": "Grilled Chicken Sandwich", "price": 9.99, "imageUrl": "https://shorturl.at/alrv5" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Art Caffe",
+        "cuisine": "Cafe",
+        "rating": 4.2,
+        "website": "https://www.artcaffe.co.ke/images/pdf/QR%20MENU-MM+A-SEPTEMBER%202022%20UPDATED.pdf",
+        "menu": [
+          { "id": 301, "name": "Cappuccino", "price": 4.99, "imageUrl": "https://psee.io/5ldta4" },
+          { "id": 302, "name": "Croissant", "price": 3.99, "imageUrl": "https://shorturl.at/uzJL4" },
+          { "id": 303, "name": "Blueberry Muffin", "price": 2.99, "imageUrl": "https://shorturl.at/cisW7" }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "CJS Hotel",
+        "cuisine": "International",
+        "rating": 4.8,
+        "website": "https://cjs.co.ke/user/menu",
+        "menu": [
+          { "id": 401, "name": "Grilled Salmon", "price": 22.99, "imageUrl": "https://shorturl.at/bdtv6" },
+          { "id": 402, "name": "Chicken Alfredo Pasta", "price": 18.99, "imageUrl": "https://shorturl.at/amtxV" },
+          { "id": 403, "name": "Beef Tenderloin Steak", "price": 25.99, "imageUrl": "https://psee.io/5ldu5u" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lunchbox",
+        "cuisine": "Sandwiches",
+        "rating": 4.4,
+        "menu": [
+          { "id": 501, "name": "Classic Club Sandwich", "price": 9.99, "imageUrl": "https://psee.io/5lduad" },
+          { "id": 502, "name": "Caprese Panini", "price": 8.99, "imageUrl": "https://psee.io/5lduay" },
+          { "id": 503, "name": "BBQ Chicken Wrap", "price": 10.99, "imageUrl": "https://psee.io/5ldubw" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Thai Chi by Sarova",
+        "cuisine": "Thai",
+        "rating": 4.6,
+        "menu": [
+          { "id": 601, "name": "Tom Yum Soup", "price": 11.99, "imageUrl": "https://psee.io/5ldufb" },
+          { "id": 602, "name": "Green Curry Chicken", "price": 14.99, "imageUrl": "https://psee.io/5ldugk" },
+          { "id": 603, "name": "Pad Thai Noodles", "price": 12.99, "imageUrl": "https://psee.io/5lduhw" }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Alloy",
+        "cuisine": "Modern American",
+        "rating": 4.7,
+        "menu": [
+          { "id": 701, "name": "Truffle Mac & Cheese", "price": 15.99, "imageUrl": "https://psee.io/5ldusf" },
+          { "id": 702, "name": "Short Rib Tacos", "price": 13.99, "imageUrl": "https://psee.io/5ldutc" },
+          { "id": 703, "name": "Seared Ahi Tuna", "price": 18.99, "imageUrl": "https://psee.io/5lduu7" }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "The Curve",
+        "cuisine": "Steakhouse",
+        "rating": 4.9,
+        "menu": [
+          { "id": 801, "name": "Filet Mignon", "price": 27.99, "imageUrl": "https://psee.io/5ldv5v" },
+          { "id": 802, "name": "Ribeye Steak", "price": 24.99, "imageUrl": "https://psee.io/5ldv84" },
+          { "id": 803, "name": "Garlic Butter Shrimp", "price": 19.99, "imageUrl": "https://psee.io/5ldv9m" }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Gallitos",
+        "cuisine": "Mexican",
+        "rating": 4.3,
+        "menu": [
+          { "id": 901, "name": "Chicken Quesadilla", "price": 10.99, "imageUrl": "https://psee.io/5lduxp" },
+          { "id": 902, "name": "Beef Burrito", "price": 12.99, "imageUrl": "https://psee.io/5lduzd" },
+          { "id": 903, "name": "Fish Tacos", "price": 11.99, "imageUrl": "https://psee.io/5ldv2d" }
+        ]
+      }
+    ]
+  }
+  
